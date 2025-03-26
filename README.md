@@ -1,4 +1,5 @@
-## Hi there 👋, I am Muhammad Risyad Raflan! 😁  
+## Hi there 👋, 
+I am Muhammad Risyad Raflan!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=dark)
