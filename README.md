@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  🚀 Newbie | 💻 Love to code and learn new things <br>
-  📍 Indonesia | 
+  🚀 Newbie |
+  💻 Love to code and learn new things |
+  📍 Indonesia
 </p>
 
 ---
