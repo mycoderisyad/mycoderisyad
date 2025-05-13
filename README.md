@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  🚀 Junior Developer | 💻 Love to code and learn new things <br>
-  📍 Indonesia | 🌱 Currently learning: TypeScript, Laravel, Python
+  🚀 Newbie | 💻 Love to code and learn new things <br>
+  📍 Indonesia | 
 </p>
 
 ---
