@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=dark" height="150"/>
 </p>
 
