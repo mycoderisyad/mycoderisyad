@@ -19,9 +19,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mycoderisyad&color=blue" alt="Visitor Count"/>
 </p>
-
----
-
-<p align="center">
-  <b>Follow me for updates!</b> 
-</p>
