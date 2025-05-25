@@ -15,7 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=light" height="150"/>
 </p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mycoderisyad&color=blue" alt="Visitor Count"/>
-</p>
