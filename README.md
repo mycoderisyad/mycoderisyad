@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Risyad Raflan</h1>
 <p align="center">
-  <img src="https://github.com/mycoderisyad.png" width="150" style="border-radius:50%" alt="Profile Picture"/>
 </p>
 
 <p align="center">
