@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Risyad Raflan</h1>
+<h1 align="center">Muhammad Risyad Raflan</h1>
 <p align="center"></p>
 <p align="center">
   🚀 Newbie |
