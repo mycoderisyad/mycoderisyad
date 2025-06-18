@@ -3,21 +3,6 @@
   <b>Beginner & Lifelong Learner</b><br/>
   Indonesia
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-risyad-raflan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mrraflann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:myacodeservice@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
 <b>Learning every day. Building small things. Growing my curiosity.</b>  
