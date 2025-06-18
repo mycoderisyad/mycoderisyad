@@ -4,18 +4,13 @@
   Indonesia
 </p>
 <div align="center">
-
 <b>Learning every day. Building small things. Growing my curiosity.</b>  
 </div>
-
----
 
 ## About Me
 
 Motivated beginner and lifelong learner with a big curiosity for technology.  
 I love to challenge myself with new things, keep improving, and share what I learn along the way.
-
----
 
 ## Tech Stack
 
@@ -30,15 +25,11 @@ I love to challenge myself with new things, keep improving, and share what I lea
   <img src="https://img.shields.io/badge/and%20more-888888?style=flat-square"/>
 </p>
 
----
-
 ## Continuous Learning
 
 - Exploring tech & coding every week, both theory and practice.
 - Joining free online courses and following coding communities.
 - Always open to feedback, collaboration, and new challenges.
-
----
 
 ## GitHub Stats
 
@@ -46,8 +37,6 @@ I love to challenge myself with new things, keep improving, and share what I lea
   <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=light&hide_border=true" height="150"/>
 </p>
-
----
 
 ## Let's Connect
 
