@@ -37,21 +37,14 @@ I love to challenge myself with new things, keep improving, and share what I lea
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=light&hide_border=true"
-    height="150"
-  />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=%24.public_repos&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=%24.followers&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Following&query=%24.following&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
 </p>
 
+## GitHub Trophy
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mycoderisyad&theme=light&hide_border=true"
-    height="150"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mycoderisyad&theme=onedark&no-frame=true" />
 </p>
 
 ## Let's Connect
