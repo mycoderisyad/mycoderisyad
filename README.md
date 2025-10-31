@@ -34,13 +34,6 @@ I love to challenge myself with new things, keep improving, and share what I lea
 - Joining free online courses and following coding communities.
 - Always open to feedback, collaboration, and new challenges.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=%24.public_repos&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=%24.followers&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Following&query=%24.following&url=https://api.github.com/users/mycoderisyad&style=for-the-badge" />
-</p>
 
 ## GitHub Trophy
 <p align="center">
