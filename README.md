@@ -47,6 +47,13 @@ I love to challenge myself with new things, keep improving, and share what I lea
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mycoderisyad&theme=light&hide_border=true"
+    height="150"
+  />
+</p>
+
 ## Let's Connect
 
 <p align="left">
