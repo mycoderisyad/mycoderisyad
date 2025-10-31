@@ -37,8 +37,14 @@ I love to challenge myself with new things, keep improving, and share what I lea
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=light&hide_border=true" height="150"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mycoderisyad&show_icons=true&theme=light&hide_border=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=light&hide_border=true"
+    height="150"
+  />
 </p>
 
 ## Let's Connect
