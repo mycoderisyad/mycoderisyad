@@ -35,9 +35,17 @@ I love to challenge myself with new things, keep improving, and share what I lea
 - Always open to feedback, collaboration, and new challenges.
 
 
-## GitHub Trophy
+## GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mycoderisyad&theme=onedark&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mycoderisyad&theme=onedark" />
 </p>
 
 ## Let's Connect
