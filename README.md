@@ -36,17 +36,7 @@ I love to challenge myself with new things, keep improving, and share what I lea
 
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mycoderisyad&show_icons=true&theme=onedark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycoderisyad&layout=compact&theme=onedark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mycoderisyad&theme=onedark" />
-</p>
+![mycoderisyad's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mycoderisyad&type=languages&theme=github&chart=bars)
 
 ## Let's Connect
 
