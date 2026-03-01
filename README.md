@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Risyad Raflan</h1>
 <p align="center">
-  <b>Beginner & Lifelong Learner</b><br/>
+  <b>Lifelong Learner</b><br/>
   Indonesia
 </p>
 <div align="center">
