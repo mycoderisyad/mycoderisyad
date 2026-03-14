@@ -9,7 +9,7 @@
 
 ## About Me
 
-Motivated beginner and lifelong learner with a big curiosity for technology.  
+lifelong learner with a big curiosity for technology.  
 I love to challenge myself with new things, keep improving, and share what I learn along the way.
 
 ## Tech Stack
