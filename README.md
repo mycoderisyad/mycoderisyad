@@ -5,15 +5,11 @@
   <a href="https://linkedin.com/in/muhammad-risyad-raflan">LinkedIn</a> ·
   <a href="mailto:myacodeservice@gmail.com">Email</a>
 </p>
-
 <br>
-
 ### About
-
 Junior developer focused on building maintainable web applications and strengthening core software engineering fundamentals. Interested in clean implementation, iterative learning, and practical problem solving.
 
 <br>
-
 ### Tech Stack
 
 **Languages**
@@ -51,14 +47,6 @@ Junior developer focused on building maintainable web applications and strengthe
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<br>
-
-### Currently Learning
-
-- SQL Server for relational database management
-- Testing, automation, and CI/CD deployment workflows
-- Software design patterns and scalable system architecture
 
 <br>
 
