@@ -80,6 +80,6 @@ Junior developer focused on building maintainable web applications and strengthe
 
 | Channel | Link |
 |---|---|
-| Portfolio | [rafgt.me](https://rafgt.me) |
+| Portfolio | [rafgt.my.id](https://raflan.my.id) |
 | LinkedIn | [muhammad-risyad-raflan](https://linkedin.com/in/muhammad-risyad-raflan) |
 | Email | [myacodeservice@gmail.com](mailto:myacodeservice@gmail.com) |
